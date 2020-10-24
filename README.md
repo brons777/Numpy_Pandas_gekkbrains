@@ -1,1 +1,1 @@
-# Numpy_Pandas_gekkbrains
+# Numpy_Pandas_geekbrains
